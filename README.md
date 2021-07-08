@@ -1,1 +1,3 @@
 # Dungeon-Dweller
+
+"C:\Program Files\Greenfoot\jdk\bin\java.exe" -cp "C:\Program Files\Greenfoot\lib\javafx\lib\javafx.base.jar;C:\Program Files\Greenfoot\lib\javafx\lib\javafx.controls.jar;C:\Program Files\Greenfoot\lib\javafx\lib\javafx.fxml.jar;C:\Program Files\Greenfoot\lib\javafx\lib\javafx.graphics.jar;C:\Program Files\Greenfoot\lib\javafx\lib\javafx.media.jar;C:\Program Files\Greenfoot\lib\javafx\lib\javafx.properties.jar;C:\Program Files\Greenfoot\lib\javafx\lib\javafx.swing.jar;C:\Program Files\Greenfoot\lib\javafx\lib\javafx.web.jar;C:\Users\Sarah\Downloads\dungeon_dweller.jar" --module-path "C:\Program Files\Greenfoot\lib\javafx\lib" --add-modules=ALL-MODULE-PATH greenfoot.export.GreenfootScenarioApplication
