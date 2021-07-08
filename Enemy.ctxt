@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Enemy
+comment1.params=counter
+comment1.target=Enemy(Counter)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ walk()
+comment4.params=
+comment4.target=void\ guardUp()
+comment5.params=
+comment5.target=void\ hitByPlayer()
+comment6.params=
+comment6.target=void\ hitOnLeft()
+comment7.params=
+comment7.target=void\ hitOnRight()
+numComments=8

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ForestWorld
+comment1.params=
+comment1.target=ForestWorld()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=Player\ getPlayer()
+comment4.params=
+comment4.target=HealthBarForest\ getHealthBarForest()
+comment5.params=
+comment5.target=void\ showGameOver()
+numComments=6
