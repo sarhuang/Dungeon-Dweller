@@ -4,7 +4,6 @@ Game I made with a friend in high school senior year for a coding class.
 
 Play the game here: https://www.greenfoot.org/scenarios/28303
 
-Help the green slime escape the castle dungeons and back to the forest.
 
 
 
