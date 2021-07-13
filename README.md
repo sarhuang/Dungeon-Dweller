@@ -11,8 +11,7 @@ ___HOW TO RUN___
 
 
 ___DIRECTIONS___
-- Use arrow keys to move
-- Pressing the up arrow jumps
+- Use arrow keys to move (left, right, up to jump)
 - Use space to shoot slime balls enemies
 - NOTE: you musht have an arrow key pressd to shoot
 - Defeat enemies to survive in the given time frame
