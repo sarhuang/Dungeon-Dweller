@@ -6,9 +6,16 @@ Play the game here: https://www.greenfoot.org/scenarios/28303
 
 
 
-
 ___HOW TO RUN___
 - You need to install Greenfoot if you want to mess with code. Otherwise, click on the link to play in browser.
+
+
+___DIRECTIONS___
+- Use arrow keys to move
+- Pressing the up arrow jumps
+- Use space to shoot slime balls enemies
+- NOTE: you musht have an arrow key pressd to shoot
+- Defeat enemies to survive in the given time frame
 
 
 
