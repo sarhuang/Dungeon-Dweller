@@ -1,6 +1,5 @@
 # Dungeon-Dweller
 
-Game I made with a friend in high school senior year 2020 for a coding class. 
 A 2D game about a runaway green slime shooting slimeballs at knights.
 
 Play the game here: https://www.greenfoot.org/scenarios/28303
